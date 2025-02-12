@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">
+  hey there, i'm <a href="https://github.com/user-t0x1c"> t0x1c </a> :black_joker:
+</h1>
 
-<!--
-**user-t0x1c/user-t0x1c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="300"/>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">
+  :man_technologist: about me
+</h2>
+<p align="center">
+  i love coding. I mostly write in Python.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| Github Stats | Top Languages |
+| --- | --- |
+| ![t0x1c github stats](https://github-readme-stats.vercel.app/api?username=user-t0x1c&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![t0x1c top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=user-t0x1c&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+<h3 align="center">
+  :mailbox: contact me
+</h3>
+<p align="center"> 
+  <a href="https://t.me">
+    <img src="https://img.shields.io/badge/-Telegram-black?style=flat&logo=telegram" alt="Telegram"/>
+  </a>
+</p>
